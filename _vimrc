@@ -1,3 +1,4 @@
+""comando para que habra el chd en mi espacio de trabajo
 cd C:\Users\Tadeo\Workspace
 set nocompatible
 source $VIMRUNTIME/vimrc_example.vim
